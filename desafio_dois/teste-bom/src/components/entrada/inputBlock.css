@@ -1,0 +1,22 @@
+.input_block {
+    margin-right: auto;
+    margin-left: auto;
+    width: 40em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(187, 217, 231);
+
+    border: 1px solid rgba(128, 128, 128, 0.445);
+    border-radius: 10px;
+}
+
+.input_block_button {
+    width: 10em;
+    height: 2.5em;
+    background-color: rgb(68, 58, 158);
+    color: white;
+    border: 1px solid rgb(36, 28, 114);
+    border-radius: 5px 5px;
+    font-family: 'Noto Sans TC', sans-serif;
+    letter-spacing: 1px;
+}

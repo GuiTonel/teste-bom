@@ -1,0 +1,44 @@
+.entrada_row{
+    padding-bottom: 8px;
+}
+
+.entrada_row_label {
+    text-align: right;
+    font-size: large;
+}
+
+.entrada_row_icon {
+    display: inline-block;
+    padding-left: 0;
+    text-align: center;
+    width: 50px;
+    height: 25px;
+    border: 1px solid gray;
+    border-right: 0;
+    background-color: rgb(235, 244, 247);
+    padding-bottom: 4px;
+    border-radius: 3px 0 0 3px;    
+}
+
+.entrada_row_icon p {
+    text-align: right;
+    display: inline;
+    position: relative;
+    top: 1px;
+}
+
+.entrada_row_input_col{
+    height: 2em;
+    padding-right: 20px;
+}
+
+.entrada_row_input{
+    border: 1px solid gray;
+    border-radius: 0 3px 3px 0;
+    block-size: 29px;
+    top: 1px;
+    padding: 0;
+    margin: 0;
+    text-align: right;
+    position: relative;
+}

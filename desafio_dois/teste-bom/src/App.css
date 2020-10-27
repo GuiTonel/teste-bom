@@ -1,0 +1,13 @@
+.App {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-weight: bold;
+}
+
+input[type="number"] {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

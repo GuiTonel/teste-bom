@@ -1,0 +1,43 @@
+.output-block {
+    margin-right: auto;
+    margin-left: auto;
+    width: 40em;
+    align-items: center;
+
+    margin-top: 40px;
+    border: 1px solid gray;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.output-block-valor {
+    text-align: right;
+}
+
+.header-row {
+    font-weight: bold;
+    text-align: center;
+}
+
+.output-block-container {
+    display: ruby;
+}
+
+.saida-row-col-block{
+    border: 1px solid rgb(211, 209, 209);
+    padding: 10px 10px;
+    white-space: nowrap;
+    height: 50px;
+    width: 40px;
+}
+
+.footer-row{
+    font-weight: normal;
+    text-align: right;
+}
+
+#totais {
+    text-align: center;
+}
